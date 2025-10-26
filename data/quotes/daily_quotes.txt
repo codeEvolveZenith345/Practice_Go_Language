@@ -147,3 +147,4 @@
 [2025-10-26 02:15:17] It's not a bug – it's an undocumented feature. - Anonymous
 [2025-10-26 02:42:57] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2025-10-26 06:40:57] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-10-26 08:49:37] Make it work, make it right, make it fast. - Kent Beck
