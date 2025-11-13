@@ -223,3 +223,4 @@
 [2025-11-12 03:54:22] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
 [2025-11-12 06:45:47] The best way to predict the future is to implement it. - Alan Kay
 [2025-11-12 20:50:46] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-11-13 03:57:19] It's not a bug – it's an undocumented feature. - Anonymous
