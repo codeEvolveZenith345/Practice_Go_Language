@@ -284,3 +284,4 @@
 [2025-11-27 08:55:47] Good code is its own best documentation. - Steve McConnell
 [2025-11-27 10:44:04] The only constant in the technology industry is change. - Marc Benioff
 [2025-11-27 13:02:02] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-11-27 14:54:24] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
