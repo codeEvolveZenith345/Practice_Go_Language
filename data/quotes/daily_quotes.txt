@@ -359,3 +359,4 @@
 [2025-12-13 14:52:52] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2025-12-13 18:40:25] Code never lies, comments sometimes do. - Ron Jeffries
 [2025-12-13 20:51:09] First, solve the problem. Then, write the code. - John Johnson
+[2025-12-14 02:29:05] It's not a bug – it's an undocumented feature. - Anonymous
