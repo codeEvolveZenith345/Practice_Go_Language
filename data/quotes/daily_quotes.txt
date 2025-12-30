@@ -451,3 +451,4 @@
 [2025-12-30 06:48:53] Make it work, make it right, make it fast. - Kent Beck
 [2025-12-30 10:45:52] The best error message is the one that never shows up. - Thomas Fuchs
 [2025-12-30 13:05:23] Make it work, make it right, make it fast. - Kent Beck
+[2025-12-30 16:49:46] It's not a bug – it's an undocumented feature. - Anonymous
