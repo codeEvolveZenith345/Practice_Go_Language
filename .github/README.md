@@ -1,4 +1,4 @@
-# GitHub Activity Automation
+
 
 This directory contains an automated GitHub activity system that generates realistic commit activity to maintain consistency in your GitHub contribution graph.
 
@@ -127,3 +127,4 @@ Edit the `activities` list in `update_daily_log()` function to add your own deve
 1. Ensure `.gitignore` allows `data/` directory
 2. Check workflow has proper permissions
 3. Verify Git configuration in workflow
+
