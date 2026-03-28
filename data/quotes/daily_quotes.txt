@@ -901,3 +901,4 @@
 [2026-03-28 09:19:56] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
 [2026-03-28 10:56:53] It's not a bug – it's an undocumented feature. - Anonymous
 [2026-03-28 16:57:33] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-03-28 18:59:27] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
