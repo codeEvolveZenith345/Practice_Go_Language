@@ -993,3 +993,4 @@
 [2026-04-15 14:04:55] Code never lies, comments sometimes do. - Ron Jeffries
 [2026-04-16 05:40:07] Code never lies, comments sometimes do. - Ron Jeffries
 [2026-04-16 16:09:46] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-04-16 21:28:18] It's not a bug – it's an undocumented feature. - Anonymous
