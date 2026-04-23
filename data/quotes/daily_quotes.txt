@@ -1026,3 +1026,4 @@
 [2026-04-22 17:30:25] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2026-04-22 21:36:27] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2026-04-23 03:43:42] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-04-23 04:14:57] It's not a bug – it's an undocumented feature. - Anonymous
